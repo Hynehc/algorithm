@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "floyd算法及其扩展应用", "floyd算法及其扩展应用\floyd算法及其扩展应用.vcxproj", "{359672FB-0C63-4DDA-ABC6-44CC2881F876}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{359672FB-0C63-4DDA-ABC6-44CC2881F876}.Debug|x64.ActiveCfg = Debug|x64
+		{359672FB-0C63-4DDA-ABC6-44CC2881F876}.Debug|x64.Build.0 = Debug|x64
+		{359672FB-0C63-4DDA-ABC6-44CC2881F876}.Debug|x86.ActiveCfg = Debug|Win32
+		{359672FB-0C63-4DDA-ABC6-44CC2881F876}.Debug|x86.Build.0 = Debug|Win32
+		{359672FB-0C63-4DDA-ABC6-44CC2881F876}.Release|x64.ActiveCfg = Release|x64
+		{359672FB-0C63-4DDA-ABC6-44CC2881F876}.Release|x64.Build.0 = Release|x64
+		{359672FB-0C63-4DDA-ABC6-44CC2881F876}.Release|x86.ActiveCfg = Release|Win32
+		{359672FB-0C63-4DDA-ABC6-44CC2881F876}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF655E6F-E5AD-4C49-A8BF-5487F9CE71F9}
+	EndGlobalSection
+EndGlobal
