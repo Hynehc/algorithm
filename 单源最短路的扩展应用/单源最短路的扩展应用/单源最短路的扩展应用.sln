@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "单源最短路的扩展应用", "单源最短路的扩展应用\单源最短路的扩展应用.vcxproj", "{2394C17F-2B24-4A30-B530-776D8A47201B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2394C17F-2B24-4A30-B530-776D8A47201B}.Debug|x64.ActiveCfg = Debug|x64
+		{2394C17F-2B24-4A30-B530-776D8A47201B}.Debug|x64.Build.0 = Debug|x64
+		{2394C17F-2B24-4A30-B530-776D8A47201B}.Debug|x86.ActiveCfg = Debug|Win32
+		{2394C17F-2B24-4A30-B530-776D8A47201B}.Debug|x86.Build.0 = Debug|Win32
+		{2394C17F-2B24-4A30-B530-776D8A47201B}.Release|x64.ActiveCfg = Release|x64
+		{2394C17F-2B24-4A30-B530-776D8A47201B}.Release|x64.Build.0 = Release|x64
+		{2394C17F-2B24-4A30-B530-776D8A47201B}.Release|x86.ActiveCfg = Release|Win32
+		{2394C17F-2B24-4A30-B530-776D8A47201B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F5673CC-C4FE-4C67-913E-B67D50771CB6}
+	EndGlobalSection
+EndGlobal
